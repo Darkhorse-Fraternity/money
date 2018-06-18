@@ -1,0 +1,15 @@
+PODS:
+  - JPush (2.2.0.1)
+  - Reveal-iOS-SDK (1.6.2)
+
+DEPENDENCIES:
+  - JPush
+  - Reveal-iOS-SDK
+
+SPEC CHECKSUMS:
+  JPush: c891ec9f6fae587db642c4ac28d19d5abc5d61bb
+  Reveal-iOS-SDK: e2250b3c155bcfac53ae223ddc1f76d08f206c33
+
+PODFILE CHECKSUM: 80045fee1809555927aa2d5ed0fd4623dc95d3ff
+
+COCOAPODS: 1.1.1
